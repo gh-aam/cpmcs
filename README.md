@@ -1,7 +1,8 @@
 ### CPMCS — CP + Mathematics + CS
 ---
 ##### Level 1: Competitive Programming
-- [ ] [Fundamentals of Competitive Programming](https://cpbook.net/)
+- [ ] [Introduction to Competitive Programming 1](https://github.com/m40-aam/cpmcs/blob/main/cp/icp.md)
+- [ ] [Introduction to Competitive Programming 2](https://cpbook.net/)
 ---
 ##### Level 2: Developmental Mathematics
 - [ ] [The Art of Mathematical Problem Solving 1](https://www.vitalsource.com/products/developmental-mathematics-robert-f-blitzer-v9780134432915)
