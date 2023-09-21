@@ -1,9 +1,9 @@
 ##### iCP — Introduction to Competitive Programming
 ---
-##### C++ Introduction
+###### C++ Introduction
 - [Introduction Programming with C++](https://cplusplus.com/doc/tutorial/)
 
-##### Arrays & Hashing
+###### Arrays & Hashing
 - [Resource Finder](https://bard.google.com/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
@@ -64,7 +64,7 @@
 - [ ] [Text Justification](https://leetcode.com/problems/text-justification/)
 - [ ] [Naming a Company](https://leetcode.com/problems/naming-a-company/)
 
-##### Two Pointers
+###### Two Pointers
 - [Resource Finder](https://bard.google.com/)
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [ ] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
@@ -85,7 +85,7 @@
 - [ ] [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 - [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 
-##### Sliding Window
+###### Sliding Window
 - [Resource Finder](https://bard.google.com/)
 - [ ] [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
@@ -102,7 +102,7 @@
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [ ] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 
-##### Stack
+###### Stack
 - [Resource Finder](https://bard.google.com/)
 - [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [ ] [Baseball Game](https://leetcode.com/problems/baseball-game/)
@@ -124,7 +124,7 @@
 - [ ] [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
 - [ ] [Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
-##### Binary Search
+###### Binary Search
 - [Resource Finder](https://bard.google.com/)
 - [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
 - [ ] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
@@ -151,7 +151,7 @@
 - [ ] [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
 - [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
-##### Linked List
+###### Linked List
 - [Resource Finder](https://bard.google.com/)
 - [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
@@ -182,7 +182,7 @@
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [ ] [Reverse Nodes In K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 
-##### Trees
+###### Trees
 - [Resource Finder](https://bard.google.com/)
 - [ ] [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [ ] [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
@@ -230,13 +230,13 @@
 - [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [ ] [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
-##### Tries
+###### Tries
 - [Resource Finder](https://bard.google.com/)
 - [ ] [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [ ] [Design Add And Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 - [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)
 
-##### Heap/Priority Queue
+###### Heap/Priority Queue
 - [Resource Finder](https://bard.google.com/)
 - [ ] [Kth Largest Element In a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 - [ ] [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
@@ -257,7 +257,7 @@
 - [ ] [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)
 - [ ] [IPO](https://leetcode.com/problems/ipo/)
 
-##### Backtracking
+###### Backtracking
 - [Resource Finder](https://bard.google.com/)
 - [ ] [Subsets](https://leetcode.com/problems/subsets/)
 - [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/)
@@ -278,7 +278,7 @@
 - [ ] [N Queens](https://leetcode.com/problems/n-queens/)
 - [ ] [N Queens II](https://leetcode.com/problems/n-queens-ii/)
 
-##### Graph I
+###### Graph I
 - [Resource Finder](https://bard.google.com/)
 - [ ] [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
 - [ ] [Verifying An Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
@@ -316,7 +316,7 @@
 - [ ] [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/)
 - [ ] [Word Ladder](https://leetcode.com/problems/word-ladder/)
 
-##### Graph II
+###### Graph II
 - [Resource Finder](https://bard.google.com/)
 - [ ] [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 - [ ] [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
@@ -328,7 +328,7 @@
 - [ ] [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
 - [ ] [Find Critical and Pseudo Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)
 
-##### Dynamic Programming I (1-D)
+###### Dynamic Programming I (1-D)
 - [Resource Finder](https://bard.google.com/)
 - [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ ] [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
@@ -364,7 +364,7 @@
 - [ ] [Maximize Score after N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)
 - [ ] [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)
 
-##### Dynamic Programming II (2-D)
+###### Dynamic Programming II (2-D)
 - [Resource Finder](https://bard.google.com/)
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [ ] [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
@@ -395,7 +395,7 @@
 - [ ] [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)
 - [ ] [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
 
-##### Greedy
+###### Greedy
 - [Resource Finder](https://bard.google.com/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [ ] [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
@@ -414,7 +414,7 @@
 - [ ] [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/)
 - [ ] [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
 
-##### Intervals
+###### Intervals
 - [Resource Finder](https://bard.google.com/)
 - [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
@@ -423,7 +423,7 @@
 - [ ] [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
 - [ ] [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
 
-##### Math & Geometry
+###### Math & Geometry
 - [Resource Finder](https://bard.google.com/)
 - [ ] [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 - [ ] [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
@@ -448,7 +448,7 @@
 - [ ] [Find Missing Observations](https://leetcode.com/problems/find-missing-observations/)
 - [ ] [Maximum Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
 
-##### Bit Manipulation
+###### Bit Manipulation
 - [Resource Finder](https://bard.google.com/)
 - [ ] [Single Number](https://leetcode.com/problems/single-number/)
 - [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
