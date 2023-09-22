@@ -1,7 +1,7 @@
 ### CPMCS — CP + Mathematics + CS
 ---
 ##### Level 1: Competitive Programming
-- [ ] [Introduction to Competitive Programming 1](https://github.com/m40-aam/cpmcs/blob/main/cp/icp.md)
+- [ ] [Introduction to Competitive Programming 1](https://www.codechef.com/)
 - [ ] [Introduction to Competitive Programming 2](https://cpbook.net/)
 ---
 ##### Level 2: Developmental Mathematics
